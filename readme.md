@@ -1,5 +1,8 @@
 Pull code and go to  of project DIR 
 
+### **_To see how final code should work please open /final_result.gif file_**
+
+
 1. composer update  ( install composer before if needed)
 
 2. Create database on your local mysql server
